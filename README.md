@@ -20,3 +20,6 @@ Repositorio creado para las prácticas del programa IMPACT#include.
 
 ## Formación 
 IMPACT#include — Fundación GoodJob — 2026
+
+## Infomración adicional
+Incluir todo lo necesario.
