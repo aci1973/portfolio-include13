@@ -4,7 +4,7 @@
 > Fundación GoodJob, edición 13 (2026).
 
 ## Sobre este repositorio 
-PENDIENTE (Breve descripción de qué contiene y para qué sirve)
+Repositorio creado para las prácticas del programa IMPACT#include.
 
 ## Proyectos 
 
