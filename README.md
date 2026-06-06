@@ -23,3 +23,4 @@ IMPACT#include — Fundación GoodJob — 2026
 
 ## Infomración adicional
 Incluir todo lo necesario.
+Darse de alta de N8n.
